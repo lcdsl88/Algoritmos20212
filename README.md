@@ -1,4 +1,6 @@
-# PPG-CCOMP_Algoritmos2021/2 em C e C++ das implementações dos slides das aulas do professor Fabiano Oliveira
+# PPG-CCOMP_Algoritmos2021/2 
+
+Algoritmos em C++ das implementações dos slides das aulas do professor Fabiano Oliveira
 
 As notas de aula se encontram em: https://fabianooliveira.ime.uerj.br/lecture-notes
 
