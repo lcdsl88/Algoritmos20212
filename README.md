@@ -1,6 +1,6 @@
 # PPG-CCOMP_Algoritmos2021/2 
 
-Algoritmos em C++ das implementações dos slides das aulas do professor Fabiano Oliveira
+Algoritmos em C++ das implementações dos slides das aulas da disciplina Algoritmos do professor Fabiano Oliveira no Programa de Pós-Graduação em Ciências Computacionais da UERJ
 
 As notas de aula se encontram em: https://fabianooliveira.ime.uerj.br/lecture-notes
 
