@@ -1,0 +1,5 @@
+inteiro i <- 329
+real r <- 3.29
+caracter c <- 'k'
+cadeia s <- "TuPy"
+lógico L <- verdadeiro
