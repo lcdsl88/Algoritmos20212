@@ -39,3 +39,43 @@ Aula 16 - Revisão
 Aula 17 - Revisão
 
 Autor: Luiz Carlos Leão @lcsl88
+
+Algorithms in C and C++ of Algorithms lectures professor Fabiano Oliveira in the Doctoral Graduate Program in Computer Science at UERJ https://ccomp.ime.uerj.br/
+
+Class notes can be found at: https://fabianooliveira.ime.uerj.br/lecture-notes
+
+Class 01 - Scalar type variable
+
+Class 02 - Variable vector, matrix and structure
+
+Class 03 - Pointer-type variables
+
+Class 04 - Beginning of Complexity of Algorithms
+
+Class 05 - Complexity of Algorithms
+
+Class 06 - Complexity of Algorithms
+
+Class 07 - Beginning of Linear Lists
+
+Class 08 - Linear Lists
+
+Class 09 - Linear Lists
+
+Class 10 - Linear Linked Lists
+
+Class 11 - Recursion
+
+Class 12 - Recursion
+
+Class 13 - Beginning of Trees
+
+Lesson 14 - Binary Search Trees
+
+Lesson 15 - Recursion in Trees
+
+Class 16 - Review
+
+Class 17 - Review
+
+Author: Luiz Carlos Leão @lcsl88 
