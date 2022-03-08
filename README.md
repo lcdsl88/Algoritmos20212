@@ -40,7 +40,7 @@ Aula 17 - Revisão
 
 Autor: Luiz Carlos Leão @lcsl88
 
-Algorithms in C and C++ of Algorithms lectures professor Fabiano Oliveira in the Doctoral Graduate Program in Computer Science at UERJ https://ccomp.ime.uerj.br/
+Algorithms in C and C++ of Algorithms lectures professor Fabiano Oliveira in the Doctoral Graduate Program in Computer Science at Rio de Janeiro State University https://ccomp.ime.uerj.br/
 
 Class notes can be found at: https://fabianooliveira.ime.uerj.br/lecture-notes
 
