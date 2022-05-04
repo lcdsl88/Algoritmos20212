@@ -70,9 +70,9 @@ Class 12 - Recursion
 
 Class 13 - Beginning of Trees
 
-Lesson 14 - Binary Search Trees
+Class 14 - Binary Search Trees
 
-Lesson 15 - Recursion in Trees
+Class 15 - Recursion in Trees
 
 Class 16 - Review
 
