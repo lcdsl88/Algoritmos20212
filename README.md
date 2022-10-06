@@ -1,8 +1,6 @@
-# PPG-CCOMP_Algoritmos2021/2 
+# Algoritmos2021/2 
 
-Algoritmos em C e C++ das implementações dos slides das aulas da disciplina Algoritmos do professor Fabiano Oliveira no Programa de Pós-Graduação em Ciências Computacionais da UERJ https://ccomp.ime.uerj.br/
-
-As notas de aula se encontram em: https://fabianooliveira.ime.uerj.br/lecture-notes
+Algoritmos em C e C++ das implementações dos slides das aulas da disciplina 
 
 Aula 01 - Variável tipo escalar
 
@@ -38,11 +36,9 @@ Aula 16 - Revisão
 
 Aula 17 - Revisão
 
-Autor: Luiz Carlos Leão @lcsl88
+Autor: Luiz Carlos D. @lcsl88
 
-Implementations in C and C++ of Algorithms lectures professor Fabiano Oliveira in the Doctoral Graduate Program in Computer Science at Rio de Janeiro State University https://ccomp.ime.uerj.br/
-
-Class notes can be found at: https://fabianooliveira.ime.uerj.br/lecture-notes
+Implementations in C and C++ of Algorithms 
 
 Class 01 - Scalar type variable
 
@@ -78,4 +74,4 @@ Class 16 - Review
 
 Class 17 - Review
 
-Author: Luiz Carlos Leão @lcsl88 
+Author: Luiz Carlos D. @lcsl88 
