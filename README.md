@@ -36,7 +36,7 @@ Aula 16 - Revisão
 
 Aula 17 - Revisão
 
-Autor: Luiz Carlos D. @lcsl88
+Autor: Luiz Carlos @lcsl88
 
 Implementations in C and C++ of Algorithms 
 
